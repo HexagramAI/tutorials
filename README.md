@@ -40,3 +40,7 @@
 
 ### Ongoing courses:
 
+# 炒股：
+
+This account is designed to develop quantitative trading strategy. How to trade for Chinese/American market could also be a potential topics.
+
