@@ -1,6 +1,7 @@
 # Data Tutorials
 
 ## Import Notes:
+#### please **vote** for your interested courses at Issue page
 
 * How to **vote**: click **thumb up** to any of the link below. We will decide which course to teach based on vote number.
 * How to **attend**: **zoom** or other live broadcast software.
@@ -8,7 +9,6 @@
 * **Teach**: If any one interested in teaching, please contact me through creating issue, will add you as a collaborator.
 
 # Courses: 
-#### please **vote** for your interested courses
 
 ## Pending courses:
 --------
