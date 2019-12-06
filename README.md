@@ -22,13 +22,15 @@
 
 >  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3
 
-#### Mock sesession series:
+#### Mock session series:
 
 >  Snapchat MLE phone interview mock session (Jason). (pure coding, Ads & recommendation system team)
 
 >  Amazon MLE phone interivew mock session (Jason). (coding + ML, Seattle team)
 
->  Apple MLE phone interview mock session (Jason). (coding + ML ,Seattle team)
+>  Apple MLE phone interview mock session (Jason). (coding + ML, Seattle team)
+
+>  Wayfair DS/DA/BA phone interview mock session (Shuo). (case + ML, Boston team)
 
 #### Data challenge series:
 > Capital One
