@@ -8,37 +8,37 @@
 * How to **attend**: **zoom** or other live broadcast software.
 * **Teach**: If any one interested in teaching, please contact me through creating issue, will add you as a collaborator.
 
-# Courses: 
+# Courses series: 
 
 ## Pending courses:
 --------
-### Learning series:
-> **ML**:
+**ML**:
 
->>  ML theory series (Jason): https://github.com/Hexgram/tutorials/issues/1 (**8** person to start, now: 0)
+>  ML theory series (Jason): https://github.com/Hexgram/tutorials/issues/1 (**8** person to start, now: 0)
 
->>  ML interview questions (Jason): https://github.com/Hexgram/tutorials/issues/4 (**8** person to start, now: 1)
+>  ML interview questions (Jason): https://github.com/Hexgram/tutorials/issues/4 (**8** person to start, now: 1)
 
-> **Coding**
+**Coding**
 
->>  Coding series (Jason): https://github.com/Hexgram/tutorials/issues/2 (**8** person to start, now: 0)
+>  Coding series (Jason): https://github.com/Hexgram/tutorials/issues/2 (**8** person to start, now: 0)
 
-> **Interivew**
+**Interivew**
 
->>  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3 (**8** person to start, now: 0)
+>  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3 (**8** person to start, now: 0)
 
-#### Mock session series:
-> **DS**:
+### Mock session series:
 
->>  Wayfair DS/DA/BA phone interview mock session (Shuo). (case + ML, Boston team)
+**DS**:
 
-> **MLE**: 
+>  Wayfair DS/DA/BA phone interview mock session (Shuo). (case + ML, Boston team)
 
->> Snapchat MLE phone interview mock session (Jason). (pure coding, Ads & recommendation system team)
+**MLE**: 
 
->>  Amazon MLE phone interivew mock session (Jason). (coding + ML, Seattle team)
+> Snapchat MLE phone interview mock session (Jason). (pure coding, Ads & recommendation system team)
 
->>  Apple MLE phone interview mock session (Jason). (coding + ML, Seattle team)
+>  Amazon MLE phone interivew mock session (Jason). (coding + ML, Seattle team)
+
+>  Apple MLE phone interview mock session (Jason). (coding + ML, Seattle team)
 
 
 
