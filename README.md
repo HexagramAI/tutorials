@@ -13,29 +13,34 @@
 ## Pending courses:
 --------
 #### Learning series:
->  ML:
+> ### ML:
 
 >>  ML theory series (Jason): https://github.com/Hexgram/tutorials/issues/1 (**8** person to start, now: 0)
 
 >>  ML interview questions (Jason): https://github.com/Hexgram/tutorials/issues/4 (**8** person to start, now: 1)
 
->  Coding
+> ### Coding
 
 >>  Coding series (Jason): https://github.com/Hexgram/tutorials/issues/2 (**8** person to start, now: 0)
 
-> Interivew
+> ### Interivew
 
 >>  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3 (**8** person to start, now: 0)
 
 #### Mock session series:
+> ### DS:
 
->  Snapchat MLE phone interview mock session (Jason). (pure coding, Ads & recommendation system team)
+>>  Wayfair DS/DA/BA phone interview mock session (Shuo). (case + ML, Boston team)
 
->  Amazon MLE phone interivew mock session (Jason). (coding + ML, Seattle team)
+> ### MLE: 
 
->  Apple MLE phone interview mock session (Jason). (coding + ML, Seattle team)
+>> Snapchat MLE phone interview mock session (Jason). (pure coding, Ads & recommendation system team)
 
->  Wayfair DS/DA/BA phone interview mock session (Shuo). (case + ML, Boston team)
+>>  Amazon MLE phone interivew mock session (Jason). (coding + ML, Seattle team)
+
+>>  Apple MLE phone interview mock session (Jason). (coding + ML, Seattle team)
+
+
 
 #### Data challenge series:
 > Capital One
