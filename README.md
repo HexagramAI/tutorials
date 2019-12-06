@@ -26,8 +26,9 @@
 
 >  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3 (**8** person to start, now: 0)
 
-### Mock session series:
 
+## Mock session series:
+-----
 **DS**:
 
 >  Wayfair DS/DA/BA phone interview mock session (Shuo). (case + ML, Boston team)
