@@ -13,6 +13,8 @@
 
 >  ML theory series (Jason): https://github.com/Hexgram/tutorials/issues/1
 
+>  ML interview questions (Jason): https://github.com/Hexgram/tutorials/issues/4
+
 >  Coding series (Jason): https://github.com/Hexgram/tutorials/issues/2
 
 >  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3
