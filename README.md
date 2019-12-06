@@ -1,7 +1,7 @@
 # Data Tutorials
 
 ## Import Notes:
-#### please **vote** for your interested courses at Issue page
+#### Please **vote** for your interested courses at issue page
 
 * How to **vote**: click **thumb up** to any of the link below. We will decide which course to teach based on vote number.
 * How to **attend**: **zoom** or other live broadcast software.
