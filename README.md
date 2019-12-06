@@ -9,8 +9,6 @@
 * **Teach**: If any one interested in teaching, please contact me through creating issue, will add you as a collaborator.
 
 # Courses: 
-
-## Pending courses:
 --------
 **ML**:
 
@@ -51,8 +49,6 @@
 > Others
 
 -----
-## Ongoing courses:
--------------
 
 None
 
