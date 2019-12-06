@@ -26,7 +26,11 @@
 >  Apple MLE phone interview mock session (Jason). (coding + ML ,Seattle team)
 
 #### Data challenge series:
+> Capital One
 
+> Paypal
+
+> Others
 
 
 ### Ongoing courses:
