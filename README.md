@@ -8,6 +8,7 @@
 
 ## Pending courses:
 --------
+#### Learning series:
 
 ML theory series (Jason): https://github.com/Hexgram/tutorials/issues/1
 
@@ -15,11 +16,16 @@ Coding series (Jason): https://github.com/Hexgram/tutorials/issues/2
 
 Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3
 
+#### Mock sesession series:
+
 Snapchat MLE phone interview mock session (Jason). (pure coding, Ads & recommendation system team)
 
 Amazon MLE phone interivew mock session (Jason). (coding + ML, Seattle team)
 
 Apple MLE phone interview mock session (Jason). (coding + ML ,Seattle team)
+
+#### Data challenge series:
+
 
 
 ### Ongoing courses:
