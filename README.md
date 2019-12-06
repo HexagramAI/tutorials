@@ -8,7 +8,7 @@
 * How to **attend**: **zoom** or other live broadcast software.
 * **Teach**: If any one interested in teaching, please contact me through creating issue, will add you as a collaborator.
 
-# Courses series: 
+# Courses: 
 
 ## Pending courses:
 --------
