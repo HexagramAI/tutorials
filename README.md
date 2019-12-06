@@ -14,13 +14,13 @@
 --------
 #### Learning series:
 
->  ML theory series (Jason): https://github.com/Hexgram/tutorials/issues/1
+>  ML theory series (Jason): https://github.com/Hexgram/tutorials/issues/1 (8 person to start, now: 0)
 
->  ML interview questions (Jason): https://github.com/Hexgram/tutorials/issues/4
+>  ML interview questions (Jason): https://github.com/Hexgram/tutorials/issues/4 (8 person to start, now: 1)
 
->  Coding series (Jason): https://github.com/Hexgram/tutorials/issues/2
+>  Coding series (Jason): https://github.com/Hexgram/tutorials/issues/2 (8 person to start, now: 0)
 
->  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3
+>  Interivew techniques (Jason): https://github.com/Hexgram/tutorials/issues/3 (8 person to start, now: 0)
 
 #### Mock session series:
 
