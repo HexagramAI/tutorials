@@ -7,7 +7,8 @@
 * **When** is the course: will update in the issue page and in wechat channel.
 * **Teach**: If any one interested in teaching, please contact me through creating issue, will add you as a collaborator.
 
-# Courses: please vote for your interested courses
+# Courses: 
+###### please **vote** for your interested courses
 
 ## Pending courses:
 --------
