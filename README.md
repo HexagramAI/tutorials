@@ -14,7 +14,7 @@
 
 >  ML theory series (Jason): [vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
->  ML interview questions (Jason): [vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 1)
+>  ML interview questions (Jason): [vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
 
 **Coding**
 
@@ -22,7 +22,7 @@
 
 **Interivew**
 
->  Interivew techniques (Jason): [vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 0)
+>  Interivew techniques (Jason): [vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 1)
 
 
 ## Mock session series:
