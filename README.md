@@ -22,7 +22,7 @@
 
 **Interivew**
 
->  Interivew techniques (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 1)
+>  Interivew techniques (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 2)
 
 
 ## Mock session series:
