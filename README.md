@@ -18,7 +18,7 @@
 
 **Coding**
 
->  Coding series (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 0)
+>  Coding series (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 1)
 
 **Interivew**
 
