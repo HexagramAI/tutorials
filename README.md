@@ -18,11 +18,11 @@
 
 **Coding**
 
->  Coding series (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 1)
+>  Coding series (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 2)
 
 **Interivew**
 
->  Interivew techniques (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 2)
+>  Interivew techniques (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
 
 
 ## Mock session series:
