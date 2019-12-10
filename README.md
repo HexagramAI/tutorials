@@ -25,7 +25,7 @@
 >  Interivew techniques (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
 
 
-## Mock session series:
+## Mock interview + teaching series:
 -----
 **DS**:
 
