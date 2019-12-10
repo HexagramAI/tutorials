@@ -35,7 +35,7 @@
 
 > Snapchat phone interview (Jason)[charged, vote here]() (**2** person to start, now: 0). (pure coding, Ads & recommendation system team)
 
->  Amazon MLE phone interivew (Jason)[charged, vote here]().(**2** person to start, now: 0) (coding + ML, Seattle team)
+>  Amazon MLE phone interivew (Jason)[charged, vote here](https://github.com/Hexgram/tutorials/issues/7).(**2** person to start, now: 0) (coding + ML, Seattle team)
 
 >  Apple MLE phone interview (Jason)[charged, vote here](https://github.com/Hexgram/tutorials/issues/6).(**2** person to start, now: 0) (coding + ML, Seattle team)
 
