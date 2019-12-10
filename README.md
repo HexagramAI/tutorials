@@ -12,32 +12,32 @@
 --------
 **ML**:
 
->  ML theory series (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
+>  ML theory series: [free, vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
->  ML interview questions (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
+>  ML interview questions: [free, vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
 
 **Coding**
 
->  Coding series (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 2)
+>  Coding series: [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 2)
 
 **Interivew**
 
->  Interivew techniques (Jason): [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
+>  Interivew techniques: [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
 
 
 ## Mock interview series:
 -----
 **DS**:
 
->  Wayfair DS/DA/BA phone interview (Shuo)[charged, vote here](). (case + ML, Boston team) 
+>  Wayfair DS/DA/BA phone interview [charged, vote here](). (case + ML, Boston team) 
 
 **MLE**: 
 
-> Snapchat(Jason)[charged, vote here]() (**2** person to start, now: 0)
+> Snapchat[charged, vote here]() (**2** person to start, now: 0)
 
->  Amazon(Jason)[charged, vote here](https://github.com/Hexgram/tutorials/issues/7).(**2** person to start, now: 0)
+>  Amazon[charged, vote here](https://github.com/Hexgram/tutorials/issues/7).(**2** person to start, now: 0)
 
->  Apple (Jason)[charged, vote here](https://github.com/Hexgram/tutorials/issues/6).(**2** person to start, now: 0)
+>  Apple[charged, vote here](https://github.com/Hexgram/tutorials/issues/6).(**2** person to start, now: 0)
 
 
 
