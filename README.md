@@ -29,15 +29,15 @@
 -----
 **DS**:
 
->  Wayfair DS/DA/BA phone interview mock session (Shuo)[charged, vote here](). (case + ML, Boston team) 
+>  Wayfair DS/DA/BA phone interview (Shuo)[charged, vote here](). (case + ML, Boston team) 
 
 **MLE**: 
 
-> Snapchat MLE phone interview mock session (Jason)[charged, vote here]() (**2** person to start, now: 0). (pure coding, Ads & recommendation system team)
+> Snapchat phone interview (Jason)[charged, vote here]() (**2** person to start, now: 0). (pure coding, Ads & recommendation system team)
 
->  Amazon MLE phone interivew mock session (Jason)[charged, vote here]().(**2** person to start, now: 0) (coding + ML, Seattle team)
+>  Amazon MLE phone interivew (Jason)[charged, vote here]().(**2** person to start, now: 0) (coding + ML, Seattle team)
 
->  Apple MLE phone interview mock session (Jason)[charged, vote here]().(**2** person to start, now: 0) (coding + ML, Seattle team)
+>  Apple MLE phone interview (Jason)[charged, vote here]().(**2** person to start, now: 0) (coding + ML, Seattle team)
 
 
 
