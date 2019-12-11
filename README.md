@@ -24,6 +24,9 @@
 
 >  Interivew techniques: [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
 
+**Project**
+
+> Kaggle projects: [vote here](https://github.com/Hexgram/tutorials/issues/8) (**?** person to start, now: 1)
 
 ## Mock interview series:
 -----
