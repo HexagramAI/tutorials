@@ -18,7 +18,7 @@
 
 **Coding**
 
->  Coding series: [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 2)
+>  Basic Algorithm + data structure: [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
 **Interivew**
 
