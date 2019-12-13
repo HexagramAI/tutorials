@@ -3,10 +3,9 @@
 ## Import Notes:
 #### Please **vote** for your interested courses at issue page
 
-* How to **vote**: click **thumb up** to any of the link below. We will decide which course to teach based on vote number.
-* **When** courses start: As long as person number meet, we will start courses. Please vote in the link enclosed.
-* How to **attend**: **zoom** or other live broadcast software.
-* **Teach**: If any one interested in teaching, please contact me through creating issue, will add you as a collaborator.
+* **vote**: click **thumb up** in the link page.
+* **attend**: **zoom**
+* **Teach**: If interested in teaching, contact us.
 
 # Courses: 
 --------
