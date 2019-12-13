@@ -11,7 +11,7 @@
 --------
 **ML**:
 
->  ML theory series: [charged, vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
+>  ML theory series for interview: [charged, vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
 **Coding**
 
