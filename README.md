@@ -1,9 +1,9 @@
 # Data Tutorials
 
 ## Import Notes:
-#### Please **vote** for your interested courses at issue page
+#### Please **vote** for your interested courses
 
-* **vote**: click **thumb up** in the link page.
+* **vote**: click 👍 in the link page.
 * **attend**: **zoom**
 * **Teach**: If interested in teaching, contact us.
 
