@@ -3,8 +3,8 @@
 ## Import Notes:
 #### Please **vote** for your interested courses and leave your name in the page.
 
-* **vote**: click 👍 in the link page.
-* **attend**: **zoom**
+* **attend**: zoom
+* **vote**: click 👍 in the link page and leave your name.
 * **Teach**: If interested in teaching, contact us.
 
 # Courses: 
