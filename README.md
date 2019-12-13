@@ -12,9 +12,7 @@
 --------
 **ML**:
 
->  ML theory series: [free, vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
-
->  ML interview questions: [free, vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
+>  ML theory series: [charged, vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
 **Coding**
 
@@ -36,11 +34,11 @@
 
 **MLE**: 
 
-> Snapchat[charged, vote here]() (**2** person to start, now: 0)
+> Snapchat[free, vote here]() (**5** person to start, now: 0)
 
->  Amazon[charged, vote here](https://github.com/Hexgram/tutorials/issues/7).(**2** person to start, now: 0)
+>  Amazon[free, vote here](https://github.com/Hexgram/tutorials/issues/7).(**5** person to start, now: 0)
 
->  Apple[charged, vote here](https://github.com/Hexgram/tutorials/issues/6).(**2** person to start, now: 0)
+>  Apple[free, vote here](https://github.com/Hexgram/tutorials/issues/6).(**5** person to start, now: 0)
 
 
 
@@ -52,6 +50,10 @@
 > Others
 
 -----
+
+#### Pending
+>  ML interview questions: [?, passed, vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
+
 
 None
 
