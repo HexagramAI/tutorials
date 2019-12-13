@@ -15,6 +15,8 @@
 
 **Coding**
 
+>  Python: basic python, class, multiprocess & etc [???]  
+
 >  Basic Algorithm + data structure: [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
 **Interivew**
