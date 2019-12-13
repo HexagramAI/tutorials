@@ -34,20 +34,16 @@
 
 **MLE**: 
 
-> Snapchat[free, vote here]() (**5** person to start, now: 0)
+> Snapchat [free, vote here]() (**5** person to start, now: 0)
 
->  Amazon[free, vote here](https://github.com/Hexgram/tutorials/issues/7).(**5** person to start, now: 0)
+>  Amazon [free, vote here](https://github.com/Hexgram/tutorials/issues/7).(**5** person to start, now: 0)
 
->  Apple[free, vote here](https://github.com/Hexgram/tutorials/issues/6).(**5** person to start, now: 0)
+>  Apple [free, vote here](https://github.com/Hexgram/tutorials/issues/6).(**5** person to start, now: 0)
 
 
 
 #### Data challenge series:
 > Capital One
-
-> Paypal
-
-> Others
 
 -----
 
