@@ -15,7 +15,13 @@
 
 **Coding**
 
->  Python: basic python, class, multiprocess & etc [???]  
+>  Python: 
+ - basic python 
+ - OOD (objective-oriented designed)
+ - useful builtin packages (re, time, collections, multiprocess, etc) 
+ - data science toolkits (pandas, matplotlib, scikit-learn) [???]  
+
+>  SQL
 
 >  Basic Algorithm + data structure: [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
@@ -25,7 +31,7 @@
 
 **Project**
 
-> Kaggle projects: [vote here](https://github.com/Hexgram/tutorials/issues/8) (**?** person to start, now: 1)
+>  Kaggle projects: [vote here](https://github.com/Hexgram/tutorials/issues/8) (**?** person to start, now: 1)
 
 ## Mock interview series:
 -----
