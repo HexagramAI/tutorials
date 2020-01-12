@@ -4,11 +4,16 @@
 #### Please **vote** for your interested courses and leave your name in the page.
 
 * **attend**: zoom
-* **vote**: click 👍 in the link page and leave your name.
+* **vote**: click 👍 in the link page and leave name for later notice.
 * **Teach**: If interested in teaching, contact us.
 
 # Courses: 
 --------
+
+## 系列课程:
+
+[第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
+
 **ML**:
 
 >  ML theory series for interview: [vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
