@@ -11,7 +11,7 @@
 --------
 **ML**:
 
->  ML theory series for interview: [charged, vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
+>  ML theory series for interview: [vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
 **Coding**
 
@@ -23,11 +23,11 @@
 
 >  SQL
 
->  Basic Algorithm + data structure: [free, vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
+>  Basic Algorithm + data structure: [vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
 **Interivew**
 
->  Interivew techniques: [free, vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
+>  Interivew techniques: [vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
 
 **Project**
 
@@ -37,15 +37,15 @@
 -----
 **DS**:
 
->  Wayfair DS/DA/BA phone interview [charged, vote here](). (case + ML, Boston team) 
+>  Wayfair DS/DA/BA phone interview [vote here](). (case + ML, Boston team) 
 
 **MLE**: 
 
-> Snapchat [free, vote here]() (**5** person to start, now: 0)
+> Snapchat [vote here]() (**5** person to start, now: 0)
 
->  Amazon [free, vote here](https://github.com/Hexgram/tutorials/issues/7).(**5** person to start, now: 0)
+>  Amazon [vote here](https://github.com/Hexgram/tutorials/issues/7).(**5** person to start, now: 0)
 
->  Apple [free, vote here](https://github.com/Hexgram/tutorials/issues/6).(**5** person to start, now: 0)
+>  Apple [vote here](https://github.com/Hexgram/tutorials/issues/6).(**5** person to start, now: 0)
 
 
 
