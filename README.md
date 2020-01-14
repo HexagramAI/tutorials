@@ -20,15 +20,15 @@
 
 **Coding**
 
->  Python: 
+>  Python 入门: 
  - basic python 
  - OOD (objective-oriented designed)
  - useful builtin packages (re, time, collections, multiprocess, etc) 
  - data science toolkits (pandas, matplotlib, scikit-learn) [???]  
 
->  SQL
+>  SQL 入门
 
->  [Basic Algorithm + data structure:](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
+>  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
 
 **Interivew**
