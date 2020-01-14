@@ -10,7 +10,7 @@
 # Courses: 
 --------
 
-## 系列课程:
+## 免费系列课程:
 
 [第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
@@ -29,6 +29,8 @@
 >  SQL
 
 >  Basic Algorithm + data structure: [vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
+
+## 收费系列课程
 
 **Interivew**
 
