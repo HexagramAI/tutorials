@@ -4,7 +4,7 @@
 #### Please **vote** for your interested courses and leave your name in the page.
 
 * **attend**: zoom
-* **vote**: click 👍 in the link page and leave name for later notice.
+* **vote**: leave name in the course link.
 * **Teach**: If interested in teaching, contact us.
 
 # Courses: 
