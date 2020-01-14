@@ -28,7 +28,7 @@
 
 >  SQL
 
->  Basic Algorithm + data structure: [vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
+>  [Basic Algorithm + data structure:](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
 ## 收费系列课程
 
