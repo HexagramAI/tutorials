@@ -63,7 +63,7 @@
 -----
 
 #### Pending
->  ML interview questions: [?, passed, vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
+>  [ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
 
 
 None
