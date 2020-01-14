@@ -30,11 +30,12 @@
 
 >  [Basic Algorithm + data structure:](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
-## 收费系列课程
 
 **Interivew**
 
->  Interivew techniques: [vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
+>  [Interivew techniques: ](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
+-------
+## 收费系列课程
 
 **Project**
 
