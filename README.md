@@ -16,7 +16,7 @@
 
 **ML**:
 
->  ML theory series for interview: [link](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
+> [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
 **Coding**
 
