@@ -2,6 +2,8 @@
 
 ## 课程清单
 - 1 [行业了解 + 课程选择 (1 课时): ](https://github.com/Hexgram/tutorials/tree/master/2nd_semester/Course1)
+  - 了解数据行业DA, DS, DE 的区别以及要求.
+  - 如何选择校内课程和线上资源.(网课, coursera)
 - 2 求职前的准备：
   - 2.1 技术准备: DA/DS/MLE 技术需求(1 课时)
   - 2.2 简历修改: 简历修改技巧(1 课时)
