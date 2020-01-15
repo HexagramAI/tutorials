@@ -1,7 +1,7 @@
 # Second Semeter Series
 
 ## 课程清单
-- 1 [行业了解 + 课程选择 (1 课时): ](Îhttps://github.com/Hexgram/tutorials/blob/master/2nd_semester/IMGS/intro_data_industry.png)
+- 1 [行业了解 + 课程选择 (1 课时): ](https://github.com/Hexgram/tutorials/blob/master/2nd_semester/IMGS/intro_data_industry.png)
 - 2 求职前的准备：
   - 2.1 技术准备: DA/DS/MLE 技术需求(1 课时)
   - 2.2 简历修改: 简历修改技巧(1 课时)
