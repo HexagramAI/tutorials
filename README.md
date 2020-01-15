@@ -4,35 +4,38 @@
 #### Please **vote** for your interested courses and leave your name in the page.
 
 * **attend**: zoom
-* **vote**: click 👍 in the link page and leave name for later notice.
+* **vote**: leave name in the course link.
 * **Teach**: If interested in teaching, contact us.
 
 # Courses: 
 --------
 
-## 系列课程:
+## 免费系列课程:
 
 [第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 **ML**:
 
->  ML theory series for interview: [vote here](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
+> [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
 **Coding**
 
->  Python: 
+>  Python 入门: 
  - basic python 
  - OOD (objective-oriented designed)
  - useful builtin packages (re, time, collections, multiprocess, etc) 
  - data science toolkits (pandas, matplotlib, scikit-learn) [???]  
 
->  SQL
+>  SQL 入门
 
->  Basic Algorithm + data structure: [vote here](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
+>  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
+
 
 **Interivew**
 
->  Interivew techniques: [vote here](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
+>  [Interivew techniques: ](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
+-------
+## 收费系列课程
 
 **Project**
 
@@ -60,7 +63,7 @@
 -----
 
 #### Pending
->  ML interview questions: [?, passed, vote here](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
+>  [ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
 
 
 None
