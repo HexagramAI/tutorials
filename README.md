@@ -9,7 +9,7 @@
 --------
 ### Onging
 
-[第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
+[1. 第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
 **ML**:
