@@ -4,7 +4,7 @@
 --------
 ### Onging
 
-[1.  第二学期系列, 10:00 PM EST, 01/15/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
+[1.  第二学期求职准备, BA/DA/DS, 10:00 PM EST, 01/15/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
 #### ML
