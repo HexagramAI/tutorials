@@ -14,7 +14,7 @@
     技术面试 (1 课时)： 技术面试技巧，只谈技巧和如何准备，不包含mock 和知识点。
     behavior （1 课时): 如何处理behavior 问题。
     offer 比较（0.5 课时): offer 取舍和对比。
-<img src="https://github.com/Hexgram/tutorials/blob/master/2nd_semester/IMGS/第二学期重点.png"  width="800" height="600">
+<img src="https://github.com/Hexgram/tutorials/blob/master/2nd_semester/IMGS/第二学期重点.png"  width="900" height="700">
 
 
 
