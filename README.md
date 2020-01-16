@@ -1,10 +1,5 @@
 # Data Tutorials
 
-## Import Notes:
-
-* **参加方式**: Zoom 直播 
-* **Join us**: If interested in teaching, contact us.
-
 ## 每周分享:
 --------
 ### Onging
@@ -41,12 +36,9 @@
 
 #### Mock interview series:
 -----
-**DS**:
 
->  [Wayfair DS/DA/BA phone interview](). (case + ML, Boston team) 
-
-**Mock Interview**: 
-> MLE: [Snapchat + Amazon + Apple + ect]() (**5** person to start, now: 0)
+> DS: [Wayfair DS/DA/BA phone interview]()(**5** person to start, now: 0)
+> MLE: [Snapchat + Amazon + Apple + ect]()(**5** person to start, now: 0)
 
 
 #### Data challenge series:
@@ -58,10 +50,13 @@
 >  [ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
 
 
-None
 
-
-# Trading：
+#### Trading：
 
 This account is designed to develop quantitative trading strategy. How to trade for Chinese/American market could also be a potential topics.
 
+
+## Import Notes:
+
+* **参加方式**: Zoom 直播 
+* **Join us**: If interested in teaching, contact us.
