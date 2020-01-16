@@ -7,44 +7,40 @@
 [1.  第二学期系列, 10:00 PM EST, 01/15/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
-##### ML
+#### ML
 
 > [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**??** person to start, now: 0)
 
-##### Coding
+#### Coding
 >  [Python 入门:](https://github.com/Hexgram/tutorials/issues/9) (**10** person to start, now: 0)
    basic pytho, OOD (objective-oriented designed), data science toolkits (pandas, matplotlib, scikit-learn) [???]
 
 >  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**10** person to start, now: 4)
 
 
-##### Interivew
+#### Interivew
 
 >  [General Interivew techniques for DS + MLE:](https://github.com/Hexgram/tutorials/issues/3) (**??** person to start, now: 4)
 -------
 ## 小班课程
 
-##### Project
+#### Project
 
 >  [Kaggle projects:](https://github.com/Hexgram/tutorials/issues/8) (**?** person to start, now: 1)
 
-##### Mock interview series:
------
+#### Mock interview series:
+
 > DS: [Wayfair DS/DA/BA phone interview]()(**5** person to start, now: 0)
 > MLE: [Snapchat + Amazon + Apple + etc]()(**5** person to start, now: 0)
 
-##### ML
+#### ML
 > [Walkthrough ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**???** person to start, now: 0)
 
 #### Data challenge series:
 > [Capital One DS]()
 
 
-#### Pending
-
-
-
-#### Trading：
+##### Trading：
 
 This account is designed to develop quantitative trading strategy. How to trade for Chinese market could also be a potential topics.
 
