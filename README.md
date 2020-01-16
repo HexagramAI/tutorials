@@ -22,7 +22,7 @@
 
 >  [General Interivew techniques for DS + MLE:](https://github.com/Hexgram/tutorials/issues/3) (**??** person to start, now: 4)
 -------
-## 小班课程
+## 其他课程
 
 #### Project
 
