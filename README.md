@@ -20,7 +20,7 @@
 
 **Interivew**
 
->  [Interivew techniques: ](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
+>  [General Interivew techniques for DS + MLE:](https://github.com/Hexgram/tutorials/issues/3) (**??** person to start, now: 4)
 -------
 ## 小班课程
 
@@ -41,7 +41,7 @@
 -----
 
 #### Pending
->  [ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**8** person to start, now: 0)
+>  [ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**10** person to start, now: 0)
 
 
 
