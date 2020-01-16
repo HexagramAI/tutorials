@@ -1,16 +1,12 @@
 # Data Tutorials
 
 ## Import Notes:
-#### Please **vote** for your interested courses and leave your name in the page.
 
-* **attend**: zoom
-* **vote**: leave name in the course link.
-* **Teach**: If interested in teaching, contact us.
+* **参加方式**: Zoom 直播 
+* **Join us**: If interested in teaching, contact us.
 
-# Courses: 
+## 每周分享:
 --------
-
-## 免费系列课程:
 
 [第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
@@ -35,25 +31,20 @@
 
 >  [Interivew techniques: ](https://github.com/Hexgram/tutorials/issues/3) (**8** person to start, now: 3)
 -------
-## 收费系列课程
+## 小班课程
 
-**Project**
+#### Project
 
->  Kaggle projects: [vote here](https://github.com/Hexgram/tutorials/issues/8) (**?** person to start, now: 1)
+>  [Kaggle projects:](https://github.com/Hexgram/tutorials/issues/8) (**?** person to start, now: 1)
 
-## Mock interview series:
+#### Mock interview series:
 -----
 **DS**:
 
->  Wayfair DS/DA/BA phone interview [vote here](). (case + ML, Boston team) 
+>  [Wayfair DS/DA/BA phone interview](). (case + ML, Boston team) 
 
-**MLE**: 
-
-> Snapchat [vote here]() (**5** person to start, now: 0)
-
->  Amazon [vote here](https://github.com/Hexgram/tutorials/issues/7).(**5** person to start, now: 0)
-
->  Apple [vote here](https://github.com/Hexgram/tutorials/issues/6).(**5** person to start, now: 0)
+**Mock Interview**: 
+> MLE: [Snapchat + Amazon + Apple + ect]() (**5** person to start, now: 0)
 
 
 
