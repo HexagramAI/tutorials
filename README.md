@@ -9,17 +9,13 @@
 ### Pending
 **ML**:
 
-> [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
+> [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**??** person to start, now: 0)
 
 **Coding**
->  Python 入门: 
- - basic python 
- - OOD (objective-oriented designed)
- - useful builtin packages (re, time, collections, multiprocess, etc) 
- - data science toolkits (pandas, matplotlib, scikit-learn) [???]  
+>  [Python 入门:](https://github.com/Hexgram/tutorials/issues/9) (**10** person to start, now: 0)
+   basic pytho, OOD (objective-oriented designed), data science toolkits (pandas, matplotlib, scikit-learn) [???]
 
->  SQL 入门
->  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
+>  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**10** person to start, now: 4)
 
 
 **Interivew**
