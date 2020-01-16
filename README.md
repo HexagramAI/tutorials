@@ -4,7 +4,7 @@
 --------
 ### Onging
 
-[1. 第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
+[1. 第二学期系列, 10:00 PM EST, 01/15/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
 **ML**:
@@ -12,7 +12,6 @@
 > [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
 
 **Coding**
-
 >  Python 入门: 
  - basic python 
  - OOD (objective-oriented designed)
@@ -20,7 +19,6 @@
  - data science toolkits (pandas, matplotlib, scikit-learn) [???]  
 
 >  SQL 入门
-
 >  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**8** person to start, now: 3)
 
 
