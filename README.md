@@ -7,9 +7,11 @@
 
 ## 每周分享:
 --------
+### Onging
 
 [第二学期系列](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
+### Pending
 **ML**:
 
 > [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**8** person to start, now: 0)
@@ -45,7 +47,6 @@
 
 **Mock Interview**: 
 > MLE: [Snapchat + Amazon + Apple + ect]() (**5** person to start, now: 0)
-
 
 
 #### Data challenge series:
