@@ -8,7 +8,7 @@
 
 ### Pending
 #### General Topics
-> [文科转BA/DA](https://github.com/Hexgram/tutorials/issues/9)
+> [文科转BA/DA ](https://github.com/Hexgram/tutorials/issues/11)(**15** person to start, now: 0)
 
 #### ML
 
