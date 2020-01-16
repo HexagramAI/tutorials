@@ -41,9 +41,6 @@
 > [Capital One DS]()
 
 
-##### Trading：
-
-This account is designed to develop quantitative trading strategy. How to trade for Chinese market could also be a potential topics.
 
 
 ## Import Notes:
