@@ -7,6 +7,9 @@
 [1.  第二学期求职准备, BA/DA/DS, 10:00 PM EST, 01/15/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
+#### General Topics
+[文科转BA/DA](https://github.com/Hexgram/tutorials/issues/9)
+
 #### ML
 
 > [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**??** person to start, now: 0)
