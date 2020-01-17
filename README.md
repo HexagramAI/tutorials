@@ -17,7 +17,9 @@
 #### Coding
 >  [Python 入门:](https://github.com/Hexgram/tutorials/issues/9) (**10** person to start, now: 0)
    basic pytho, OOD (objective-oriented designed), data science toolkits (pandas, matplotlib, scikit-learn) [???]
+   
 >  [SQL 入门:](https://github.com/Hexgram/tutorials/issues/12)
+
 >  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**10** person to start, now: 4)
 
 
