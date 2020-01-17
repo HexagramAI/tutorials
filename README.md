@@ -1,6 +1,6 @@
 # Data Tutorials
 
-## 每周分享:
+## 每周免费分享:
 --------
 ### Onging
 
