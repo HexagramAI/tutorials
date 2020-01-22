@@ -1,12 +1,15 @@
 # Data Tutorials
 
-## 每周分享:
+## 每周免费分享:
 --------
 ### Onging
 
-[1.  第二学期求职准备, BA/DA/DS, 10:00 PM EST, 01/15/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
+[1.  第二学期求职准备, BA/DA/DS, 周三 东部时间10:00 PM 01/22/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
+#### General Topics
+> [文科转BA/DA ](https://github.com/Hexgram/tutorials/issues/11)(**15** person to start, now: 6)
+
 #### ML
 
 > [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**??** person to start, now: 0)
@@ -14,6 +17,8 @@
 #### Coding
 >  [Python 入门:](https://github.com/Hexgram/tutorials/issues/9) (**10** person to start, now: 0)
    basic pytho, OOD (objective-oriented designed), data science toolkits (pandas, matplotlib, scikit-learn) [???]
+   
+>  [SQL 入门:](https://github.com/Hexgram/tutorials/issues/12)
 
 >  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**10** person to start, now: 4)
 
