@@ -4,7 +4,7 @@
 --------
 ### Onging
 
-[1.  第二学期求职准备, BA/DA/DS, 周三 东部时间10:00 PM 01/22/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
+[1.  第二学期BA/DA/DS求职准备，第二节, 周三 东部时间10:00 PM 01/22/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
 #### General Topics
