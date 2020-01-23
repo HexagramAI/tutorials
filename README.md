@@ -35,7 +35,7 @@
 
 #### 面经讲解系列:
 
-> DS: [Wayfair + Snapchat + Amazon + Apple + etc  interview]https://github.com/Hexgram/tutorials/tree/master/interview_expr)(**5** person to start)
+> DS: [Wayfair + Snapchat + Amazon + Apple + etc  interview](https://github.com/Hexgram/tutorials/tree/master/interview_expr)(**5** person to start)
 
 #### ML
 > [Walkthrough ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**???** person to start, now: 0)
