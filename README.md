@@ -35,9 +35,9 @@
 
 #### 面经讲解系列:
 
-> DS: [Wayfair DS/DA/BA phone interview]()(**5** person to start, now: 0)
+> DS: [Wayfair DS/DA/BA phone interview](https://github.com/Hexgram/tutorials/issues/13)(**5** person to start, now: 0)
 
-> MLE: [Snapchat + Amazon + Apple + etc]()(**5** person to start, now: 0)
+> MLE: [Snapchat + Amazon + Apple + etc](https://github.com/Hexgram/tutorials/issues/14)(**5** person to start, now: 0)
 
 #### ML
 > [Walkthrough ML interview questions:](https://github.com/Hexgram/tutorials/issues/4) (**???** person to start, now: 0)
