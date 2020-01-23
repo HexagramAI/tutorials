@@ -33,7 +33,7 @@
 
 >  [Kaggle projects:](https://github.com/Hexgram/tutorials/issues/8) (**?** person to start, now: 1)
 
-#### Mock interview series:
+#### 面经讲解系列:
 
 > DS: [Wayfair DS/DA/BA phone interview]()(**5** person to start, now: 0)
 
