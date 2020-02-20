@@ -4,15 +4,15 @@
 --------
 ### Onging
 
-[1.  第二学期求职准备, BA/DA/DS, 周三 东部时间10:00 PM 01/22/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
+[1.  第二学期BA/DA/DS求职准备，第二节, 周三 东部时间10:00 PM 01/22/2019](https://github.com/Hexgram/tutorials/tree/master/2nd_semester)
 
 ### Pending
 #### General Topics
-> [文科转BA/DA ](https://github.com/Hexgram/tutorials/issues/11)(**15** person to start, now: 6)
+> [文科转BA/DA ](https://github.com/Hexgram/tutorials/issues/11)(**15** person to start, now: 12)
 
 #### ML
 
-> [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**??** person to start, now: 0)
+> [ML theory series for interview:](https://github.com/Hexgram/tutorials/issues/1) (**??** person to start, now: 2)
 
 #### Coding
 >  [Python 入门:](https://github.com/Hexgram/tutorials/issues/9) (**10** person to start, now: 0)
@@ -20,7 +20,7 @@
    
 >  [SQL 入门:](https://github.com/Hexgram/tutorials/issues/12)
 
->  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**10** person to start, now: 4)
+>  [基础 算法+ 数据结构](https://github.com/Hexgram/tutorials/issues/2) (**10** person to start, now: 5)
 
 
 #### Interivew
